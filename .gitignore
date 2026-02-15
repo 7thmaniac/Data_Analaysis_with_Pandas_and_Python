@@ -213,3 +213,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Directory
+Data-Analysis-with-Pandas-and-Python/
